@@ -26,3 +26,5 @@ This is a simple implementation of the classic Snake game using Python's Tkinter
 ```bash
 python snake_game.py
 
+
+You can copy and save this content into a file named `README.md` in your project repository. Markdown files (`*.md`) are commonly used for documentation on platforms like GitHub.
