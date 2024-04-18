@@ -27,6 +27,7 @@ This is a simple implementation of the classic Snake game using Python's Tkinter
 python snake_game.py
 
 
+
 Controls
 Arrow keys: Change the direction of the snake (up, down, left, right)
 WASD keys (optional): Alternative controls for direction (up, down, left, right)
